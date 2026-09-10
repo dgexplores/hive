@@ -14,3 +14,6 @@
 
 ## 2026-09-10 standup (god tick)
 - Inbox empty, roster = god only, board/tasks empty, fleet healthy. Palace wake-up = no identity, no team knowledge. No dispatches; floor idle.
+
+## 2026-09-10 17:55Z — Hourly ops standup
+- Scheduler standup handled; roster = god only, fleet healthy, board/tasks empty. No in-flight work, nothing stalled/blocked. No dispatches.
