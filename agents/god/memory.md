@@ -8,3 +8,6 @@
 
 ## 2026-09-10 17:14Z — Hourly standup
 - Scheduler standup tick; inbox empty, roster = god only, board/tasks empty. No in-flight work, nothing stalled. No dispatches; floor idle.
+
+## 2026-09-10 — Heartbeat standup
+- Inbox empty, roster = god only, board/tasks empty. Palace wake-up = no identity, no mined team knowledge yet. No in-flight work, nothing stalled, no dispatches; floor idle.

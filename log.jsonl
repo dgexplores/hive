@@ -6,3 +6,5 @@
 {"ts":1789060434405,"kind":"spawn","agentId":"god","name":"Michael","isGod":true}
 {"ts":1789060661672,"kind":"app-start","version":"0.4.6","packaged":false,"appPath":"/Users/dgsmacbook/workplace/munder-difflin","exePath":"/Users/dgsmacbook/workplace/munder-difflin/node_modules/electron/dist/Electron.app/Contents/MacOS/Electron","electron":"32.3.3","platform":"darwin"}
 {"ts":1789060908593,"kind":"spawn","agentId":"god","name":"Deepak","isGod":true}
+{"ts":1789061834908,"kind":"app-start","version":"0.4.6","packaged":false,"appPath":"/Users/dgsmacbook/workplace/munder-difflin","exePath":"/Users/dgsmacbook/workplace/munder-difflin/node_modules/electron/dist/Electron.app/Contents/MacOS/Electron","electron":"32.3.3","platform":"darwin"}
+{"ts":1789062223086,"kind":"spawn","agentId":"god","name":"Deepak","isGod":true}
