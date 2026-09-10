@@ -1,4 +1,4 @@
-# Michael (god)
+# Deepak (god)
 - Role: orchestrator (god)
 - Capabilities: —
 - Working directory: /Users/dgsmacbook
