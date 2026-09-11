@@ -23,3 +23,10 @@
 
 ## 2026-09-10 18:19Z — Ops tick
 - Inbox empty (2 archived in .done, already handled), roster = god only, fleet healthy, board/tasks empty. Palace wake-up = no identity, no new team knowledge. No dispatches; floor idle.
+
+## 2026-09-10 18:56Z — Hourly ops standup
+- Scheduler standup handled; roster = god only, fleet healthy (inboxBacklog 1 = this tick), board/tasks empty. No in-flight work, nothing stalled/blocked/unowned. No dispatches; floor idle. Archived to .done, no outbox reply per bounce rule.
+
+## 2026-09-10 18:58Z — Hire 3 request
+- Human ordered hire 3 ASAP. Q&A: roles = custom spec (no detail yet), cwd = /Users/dgsmacbook, route = queue now.
+- Queued spawn-requests/employee-1.json, employee-2.json, employee-3.json with generic await-dispatch objective. Board updated. Awaiting harness pickup; if Autonomy OFF requests wait.
