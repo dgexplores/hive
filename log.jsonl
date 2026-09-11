@@ -46,3 +46,5 @@
 {"ts":1789154165175,"kind":"spawn","agentId":"god","name":"Deepak","isGod":true}
 {"ts":1789154868142,"kind":"app-start","version":"0.4.6","packaged":true,"appPath":"/Applications/toodooo.app/Contents/Resources/app.asar","exePath":"/Applications/toodooo.app/Contents/MacOS/toodooo","electron":"32.3.3","platform":"darwin"}
 {"ts":1789155075915,"kind":"spawn","agentId":"god","name":"Deepak","isGod":true}
+{"ts":1789155894039,"kind":"app-start","version":"0.4.6","packaged":true,"appPath":"/Applications/toodooo.app/Contents/Resources/app.asar","exePath":"/Applications/toodooo.app/Contents/MacOS/toodooo","electron":"32.3.3","platform":"darwin"}
+{"ts":1789155908164,"kind":"spawn","agentId":"god","name":"Deepak","isGod":true}
