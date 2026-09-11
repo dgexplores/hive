@@ -7,12 +7,12 @@
       "provider": "opencode",
       "cwd": "/Users/dgsmacbook",
       "isGod": true,
-      "role": "orchestrator (god)",
+      "role": "god — runs the floor, triages requests, escalates only critical calls to you",
       "capabilities": [],
       "status": "idle",
       "cwdValid": true,
       "archived": false,
-      "lastSeen": 1789153312958
+      "lastSeen": 1789153336224
     }
   }
 }
