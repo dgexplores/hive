@@ -11,8 +11,8 @@
       "capabilities": [],
       "status": "idle",
       "cwdValid": true,
-      "archived": true,
-      "lastSeen": 1789143585365
+      "archived": false,
+      "lastSeen": 1789143623239
     }
   }
 }
