@@ -30,3 +30,6 @@
 ## 2026-09-10 18:58Z — Hire 3 request
 - Human ordered hire 3 ASAP. Q&A: roles = custom spec (no detail yet), cwd = /Users/dgsmacbook, route = queue now.
 - Queued spawn-requests/employee-1.json, employee-2.json, employee-3.json with generic await-dispatch objective. Board updated. Awaiting harness pickup; if Autonomy OFF requests wait.
+
+## 2026-09-11 10:02Z — Hourly ops standup
+- Scheduler standup handled; roster = god only, fleet healthy (inboxBacklog 1 = this tick). Board/tasks accurate: hire-3 spawn requests still queued, no .done/ (harness hasn't picked up, likely Autonomy OFF). No in-flight work, nothing stalled. No dispatches; archived to .done, no outbox reply per bounce rule. Board standup line added.
