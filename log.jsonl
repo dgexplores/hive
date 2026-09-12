@@ -96,3 +96,4 @@
 {"ts":1789208890335,"kind":"spawn","agentId":"god","name":"Deepak","isGod":true}
 {"ts":1789209010321,"kind":"app-start","version":"0.4.6","packaged":true,"appPath":"/Applications/toodooo.app/Contents/Resources/app.asar","exePath":"/Applications/toodooo.app/Contents/MacOS/toodooo","electron":"32.3.3","platform":"darwin"}
 {"ts":1789209016509,"kind":"spawn","agentId":"god","name":"Deepak","isGod":true}
+{"ts":1789209370836,"kind":"message","from":"scheduler","to":"god","act":"request","subject":"Hourly ops standup","id":"2026-09-12T10-36-10-834Z-d9ce5e","delivered":["god"]}
