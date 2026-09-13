@@ -1,2 +1,2 @@
 #!/bin/sh
-ELECTRON_RUN_AS_NODE=1 exec "/Applications/toodooo.app/Contents/MacOS/toodooo" "$@"
+ELECTRON_RUN_AS_NODE=1 exec "/Users/dgsmacbook/toodooo-plan/node_modules/electron/dist/Electron.app/Contents/MacOS/Electron" "$@"
